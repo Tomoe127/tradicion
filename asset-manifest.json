@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tradicion/static/css/main.cc579105.css",
+    "main.js": "/tradicion/static/js/main.672671e5.js",
+    "index.html": "/tradicion/index.html",
+    "main.cc579105.css.map": "/tradicion/static/css/main.cc579105.css.map",
+    "main.672671e5.js.map": "/tradicion/static/js/main.672671e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc579105.css",
+    "static/js/main.672671e5.js"
+  ]
+}
